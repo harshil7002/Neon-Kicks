@@ -1,0 +1,164 @@
+2025-12-25 12:37:24 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:26 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:27 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:27 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:28 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:28 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:29 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:29 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:30 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:31 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:31 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:32 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:32 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:33 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:33 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:34 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:34 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:35 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:38 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:39 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:40 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:40 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:41 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:41 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:42 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:43 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:43 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:44 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:44 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:44 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:45 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:45 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:45 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:45 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:45 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:46 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:46 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:46 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:47 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:47 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}
+2025-12-25 12:37:47 Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`neonkicks_db`.`order_items`, CONSTRAINT `order_items_ibfk_2` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE)
+#0 C:\xampp\htdocs\harshil\Neon Kicks\includes\Order.php(96): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\harshil\Neon Kicks\api\v1\orders\create.php(80): Order->create(Array)
+#2 {main}

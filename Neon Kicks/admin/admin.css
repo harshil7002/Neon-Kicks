@@ -1,0 +1,29 @@
+.admin-root { font-family: system-ui, Arial, sans-serif; background:#090909; color:#e6e6e6; }
+.admin-header { display:flex; justify-content:space-between; align-items:center; padding:12px 18px; background:linear-gradient(90deg,#0b0b0b,#111); border-bottom:1px solid #1f1f1f; }
+.admin-brand a { color:#7efc6e; text-decoration:none; font-weight:700; }
+.admin-nav a { color:#cfcfcf; margin-left:12px; text-decoration:none; }
+.admin-main { padding:18px; max-width:1200px; margin:0 auto; }
+.admin-panel { background:#0f0f0f; border:1px solid #222; padding:16px; border-radius:8px; margin-bottom:16px; }
+table { width:100%; border-collapse:collapse; }
+th,td { text-align:left; padding:8px; border-bottom:1px solid #1a1a1a; }
+input,select,textarea { width:100%; padding:8px; background:#0b0b0b; color:#eee; border:1px solid #222; border-radius:4px; }
+button { padding:8px 12px; background:#7efc6e; color:#000; border:none; border-radius:6px; cursor:pointer; }
+.admin-footer { padding:12px 18px; text-align:center; color:#999; }
+
+/* Products grid */
+.product-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:12px; margin-top:12px; }
+.product-card { background:#0b0b0b; border:1px solid #222; border-radius:8px; overflow:hidden; display:flex; flex-direction:column; }
+.product-thumb { background:#0a0a0a; height:140px; display:flex; align-items:center; justify-content:center; }
+.product-thumb img { max-width:100%; max-height:100%; object-fit:cover; display:block; }
+.product-body { padding:10px 12px; flex:1; }
+.product-title { margin:0 0 6px 0; font-size:16px; color:#fff; }
+.product-meta { color:#bfbfbf; font-size:13px; margin-bottom:6px; }
+.product-stock { font-size:13px; color:#9f9f9f; }
+.product-actions { padding:8px; display:flex; gap:8px; justify-content:flex-end; border-top:1px solid #111; background:linear-gradient(180deg,#070707,#0a0a0a); }
+.btn { display:inline-block; padding:6px 10px; border-radius:6px; text-decoration:none; color:#000; background:#7efc6e; }
+.btn-small { font-size:13px; padding:6px 8px; }
+.btn-danger { background:#ff6b6b; color:#fff; }
+
+/* Form tweaks inside admin-panel */
+.form-row { margin-top:8px; }
+.form-row label { display:block; }
